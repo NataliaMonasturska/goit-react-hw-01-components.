@@ -14,22 +14,17 @@
     align-items: center;
 }
 .avatar{
-    /* display: block; */
     width: 120px;
     height: 120px;
     border-radius: 50%;
     border: 2px solid #000;
-    /* margin-left: auto;
-    margin-right: auto; */
+ 
   
 
 }
 .name{
-    /* display: block; */
     font-weight: 700;
     font-size: 20px;
-    /* margin-left: auto;
-    margin-right: auto; */
     margin-top: 20px;
 }
 .tag{
@@ -58,18 +53,15 @@
     min-height: 70px;
     border: 1px solid #DCDCDC; 
     padding-top: 10px;
-    /* border-radius: 5px; */
 }
 
 
 .label{
     display: block;
     color:  #808080;
-    /* width: 100%; */
 }
 .quantity{
     display: block;
     font-weight: 700;
     margin-top: 10px;
-    /* width: 100%; */
 }
