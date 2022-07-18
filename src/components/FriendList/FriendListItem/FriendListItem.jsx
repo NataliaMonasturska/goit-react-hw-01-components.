@@ -1,5 +1,5 @@
 import PropTypes from "prop-types";
-import css from './ItemList.module.css';
+import css from './FriendListItem.module.css';
 
 
 

@@ -1,4 +1,4 @@
-import {getRandomColor} from 'components/randomColor'; 
+import {getRandomColor} from '../../utils/randomColor'; 
 import PropTypes from "prop-types";
 import css from './Statistics.module.css';
 
