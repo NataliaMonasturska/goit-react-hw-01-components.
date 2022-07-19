@@ -1,44 +1,42 @@
-.item{
-    width: 100%;
-    height: 100px;
-    background-color: #E0FFFF;
-    margin-bottom: 50px;
-    box-shadow: 20px -15px 10px 5px rgba(0, 0, 0, .5);
-    display: flex;
-    align-items: center;
-    padding: 15px;
+.item {
+  width: 100%;
+  height: 100px;
+  background-color: #e0ffff;
+  margin-bottom: 50px;
+  box-shadow: 20px -15px 10px 5px rgba(0, 0, 0, 0.5);
+  display: flex;
+  align-items: center;
+  padding: 15px;
 }
 
-.avatar{
-    display: block;
-    width: 95px;
-    height: 95px;
-    border: 2px solid #000;
-    border-radius: 10px;
-    padding: 5px;
+.avatar {
+  display: block;
+  width: 95px;
+  height: 95px;
+  border: 2px solid #000;
+  border-radius: 10px;
+  padding: 5px;
 }
 
-
-.name{
-    font-size: 24px;
-    font-weight: 600;
-    margin-left: 25px;
+.name {
+  font-size: 24px;
+  font-weight: 600;
+  margin-left: 25px;
 }
 
-.statusTrue{
-    display: block;
-    width: 20px;
-    height: 20px;
-    background-color: green;
-    border-radius: 50%;
-    margin-right: 15px;
-} 
-.statusFalse{
-    display: block;
-    width: 20px;
-    height: 20px;
-    background-color: red;
-    border-radius: 50%;
-    margin-right: 15px;
+.statusTrue {
+  display: block;
+  width: 20px;
+  height: 20px;
+  background-color: green;
+  border-radius: 50%;
+  margin-right: 15px;
 }
-
+.statusFalse {
+  display: block;
+  width: 20px;
+  height: 20px;
+  background-color: red;
+  border-radius: 50%;
+  margin-right: 15px;
+}
